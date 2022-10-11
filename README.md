@@ -24,7 +24,7 @@
 ## Research Areas 
 **System Design**
 
-- [Computing Paradigm](#Computing Paradigm)
+- [Computing Paradigm](#Computing-Paradigm)
 
 ## System Design
 ### Computing Paradigm

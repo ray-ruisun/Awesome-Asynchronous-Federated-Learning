@@ -28,7 +28,7 @@
 
 ## System Design
 ### Computing Paradigm
-- **Asynchronous Hierarchical Federated Learning**,![](https://img.shields.io/badge/Citation-231-lightblue?style=round-square&logo=GoogleScholar&logoColor=6B9DF9)
+- **Asynchronous Federated Optimization**,![](https://img.shields.io/badge/Citation-231-lightblue?style=round-square&logo=GoogleScholar&logoColor=6B9DF9)
   - **Paper:** [[arXiv 2019-05-10](https://arxiv.org/pdf/1903.03934.pdf)]
   - `Computing Paradigm`,  `First Proposed`
 
